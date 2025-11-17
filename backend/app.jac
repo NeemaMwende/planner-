@@ -1,5 +1,6 @@
 node root {
-    has list todos = [];
+   has list todos = [];
+
 }
 
 walker read_todos {
